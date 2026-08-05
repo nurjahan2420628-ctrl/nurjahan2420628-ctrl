@@ -4,9 +4,7 @@
   <em>CSE Student · Aspiring Software Engineer · Cybersecurity Enthusiast · Game Dev Explorer</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
@@ -16,7 +14,7 @@
 - 💻 Interested in **Software Engineering**, **Cybersecurity**, and **Game Development**
 - 🌱 Currently learning: Data Structures, and sharpening my C/C++/Java/JavaScript skills
 - 🛠️ Working on **BuildCore** — a full-stack construction project management web app
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: nurj1h1n@gmail.com
 - ⚡ Fun fact: always up for solving a good algorithm problem!
 
 ---
@@ -48,8 +46,8 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nur-jahan-47762b318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nurj1h1n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
