@@ -4,14 +4,13 @@
 
 # 👋 Hi, I'm **Nur Jahan**
 
-```html
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&cursorChar=%7C&cursor=true&lines=CSE+Student;Web+Developer;Future+Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Growing"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=50&lines=CSE+Student;Web+Developer;Future+Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Growing&v=2"
     alt="Typing SVG"
   />
 </p>
-```
+
 
 
 <p align="center">
