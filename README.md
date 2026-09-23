@@ -196,9 +196,10 @@ Real-World Software Projects
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg">
-<img src="./profile/streak.svg">
+  
+
 <img src="./profile/top-langs.svg">
+<img src="./profile/stats.svg">
 </p>
 
 ## 🔥 GitHub Streak
