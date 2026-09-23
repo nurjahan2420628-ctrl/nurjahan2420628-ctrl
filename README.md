@@ -4,12 +4,15 @@
 
 # 👋 Hi, I'm **Nur Jahan**
 
+```html
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=CSE+Student+%7C;Web+Developer+%7C;Future+Full-Stack+Developer+%7C;Building+Real-World+Projects+%7C;Always+Learning+%26+Growing+%7C"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&cursorChar=%7C&cursor=true&lines=CSE+Student;Web+Developer;Future+Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Growing"
     alt="Typing SVG"
   />
 </p>
+```
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nurjahan2420628-ctrl&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views"/>
