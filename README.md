@@ -178,7 +178,7 @@ I'm currently focusing on becoming a strong **full-stack developer** while explo
 <div align="center">
 
 <a href="https://github.com/nurjahan2420628-ctrl/visit-bangladesh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurjahan2420628-ctrl&repo=visit-bangladesh&theme=tokyonight&hide_border=true" />
+<img src="./visitBD.jpg">
 </a>
 
 </div>
@@ -216,7 +216,7 @@ https://github.com/nurjahan2420628-ctrl/visit-bangladesh
 <div align="center">
 
 <a href="https://github.com/nurjahan2420628-ctrl/buildcore-cms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurjahan2420628-ctrl&repo=buildcore-cms&theme=tokyonight&hide_border=true" />
+<img src="./BUILDCORE.jpg">
 </a>
 
 </div>
