@@ -194,7 +194,7 @@ Real-World Software Projects
 </p> -->
 
 # 📊 GitHub Statistics
-
+<img src="./profile/stats.svg">
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight"
