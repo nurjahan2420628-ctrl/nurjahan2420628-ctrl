@@ -1,65 +1,280 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.com/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=NurJahan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Better.%20Code.%20Brighter%20Tomorrow.&descAlignY=55&descSize=18" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="Nur Jahan GitHub Banner"/>
 
-</div>
+# 👋 Hi, I'm **Nur Jahan**
 
-## 👋 About Me
+### `CSE Student` • `Web Developer` • `Future Full-Stack Developer`
 
-Hi, I'm **NurJahan**! I'm a CSE student and a passionate developer from Bangladesh.
-I enjoy building web applications, exploring new technologies, and turning ideas into
-real projects. I'm always curious, love to learn, and aim to create something meaningful
-through code.
+<p>
+  <a href="https://github.com/nurjahan2420628-ctrl">
+    <img src="https://img.shields.io/github/followers/nurjahan2420628-ctrl?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/nurjahan2420628-ctrl">
+    <img src="https://img.shields.io/github/stars/nurjahan2420628-ctrl?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/nurjahan2420628-ctrl">
+    <img src="https://komarev.com/ghpvc/?username=nurjahan2420628-ctrl&style=for-the-badge&color=blueviolet" />
+  </a>
+</p>
 
-- 💻 Currently working on a tourism website and personal projects
-- 🌱 Exploring Next.js, backend development and system design
-- 🎓 On a journey to become a full-stack developer and contribute to open source
-- 📍 Dhaka, Bangladesh
-- 📫 nurjahan2420628@gmail.com
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurjahan2420628-ctrl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+<p>
+  <a href="https://www.linkedin.com/in/nur-jahan-47762b318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:nurjahan2420628@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://nurtured-updates-973268.framer.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat-square&logo=googlechrome" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🛠️ Skills
+## 👩‍💻 About Me
+
+Hi, I'm **Nur Jahan**, a Computer Science & Engineering student and passionate developer from **Dhaka, Bangladesh**.
+
+I enjoy building practical web applications, learning modern technologies, solving programming problems, and turning ideas into real-world projects.
+
+I'm currently focusing on becoming a strong **full-stack developer** while exploring backend development, modern JavaScript frameworks, databases, and software engineering practices.
+
+### 🚀 Currently Exploring
+
+* 🌱 Exploring **Next.js** and modern frontend development
+* 💻 Building a **tourism website for Bangladesh**
+* 🏗️ Developing a **construction/company management system**
+* 🧠 Strengthening my **Data Structures & Algorithms** knowledge
+* 🔧 Learning more about **backend development & system design**
+* 📚 Working toward building more real-world software projects
+* 🌍 Interested in **open-source contribution**
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,php,mysql,git,docker,figma&theme=dark" />
+
+### Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=php" width="55"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### Frontend
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+</a>
+
+<a href="https://html.spec.whatwg.org/">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+</a>
+
+<a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### Backend & Database
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### Tools & Platforms
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/>
+</a>
+
 </div>
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🌏 Visit Bangladesh</h3>
 
 <div align="center">
 
 <a href="https://github.com/nurjahan2420628-ctrl/visit-bangladesh">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nurjahan2420628-ctrl&repo=visit-bangladesh&theme=tokyonight&hide_border=true" />
 </a>
+
+</div>
+
+### Overview
+
+A modern tourism website designed to showcase the **culture, destinations, food, history and experiences of Bangladesh** for local and international visitors.
+
+### ✨ Main Features
+
+* 🗺️ Explore tourist destinations
+* 🏛️ Discover historical places
+* 🍛 Explore Bangladeshi food
+* 🌄 Destination showcase
+* 📱 Responsive design
+* 🎨 Modern user interface
+* 🔎 Easy navigation
+* 🌐 Tourism-focused content
+
+### 🧰 Technology Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+**Repository:**
+https://github.com/nurjahan2420628-ctrl/visit-bangladesh
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🏗️ BuildCore</h3>
+
+<div align="center">
+
 <a href="https://github.com/nurjahan2420628-ctrl/buildcore-cms">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nurjahan2420628-ctrl&repo=buildcore-cms&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
+### Overview
+
+A construction and company management system designed to manage **clients, projects, employees, suppliers, inventory, payments, attendance and project operations** from a centralized platform.
+
+### ✨ Main Features
+
+* 🔐 Role-based authentication
+* 👨‍💼 Admin dashboard
+* 👷 Leader dashboard
+* 👤 Client dashboard
+* 🏗️ Project management
+* 👥 Employee management
+* 📦 Inventory management
+* 💰 Financial management
+* 🧾 Invoice management
+* 🏪 Supplier management
+* 📊 Attendance tracking
+* 📝 Leave management
+* 📸 Project site updates
+* 🍱 Project lunch arrangements
+
+### 🧰 Technology Stack
+
+`PHP` `MySQL` `Bootstrap` `JavaScript` `HTML` `CSS`
+
+### 🔗 Links
+
+**Repository:**
+https://github.com/nurjahan2420628-ctrl/buildcore-cms
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 📊 Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurjahan2420628-ctrl&theme=tokyonight&hide_border=true" width="49%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan2420628-ctrl&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan2420628-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nurjahan2420628-ctrl&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -69,16 +284,69 @@ through code.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurjahan2420628-ctrl&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurjahan2420628-ctrl&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-*"Good things take time, but they're always worth it."* 💜
+<img src="https://raw.githubusercontent.com/nurjahan2420628-ctrl/nurjahan2420628-ctrl/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nurjahan2420628-ctrl&color=blueviolet&style=flat)
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+✓ Strengthen Data Structures & Algorithms
+✓ Build production-quality web applications
+✓ Improve backend development skills
+✓ Learn Next.js deeply
+✓ Learn system design fundamentals
+✓ Build AI/ML related projects
+✓ Contribute to open source
+✓ Build a strong software engineering portfolio
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nurjahan2420628-ctrl">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nur-jahan-47762b318/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://nurtured-updates-973268.framer.app/">
+<img src="https://skillicons.dev/icons?i=webflow" width="55"/>
+</a>
+
+<a href="mailto:nurjahan2420628@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💭
+
+> **"Small steps every day lead to big results."**
+
+### Thanks for visiting my profile! 💜
+
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
