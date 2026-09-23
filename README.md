@@ -258,38 +258,30 @@ https://github.com/nurjahan2420628-ctrl/buildcore-cms
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan2420628-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan2420628-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
 
-</div>
+<br><br>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nurjahan2420628-ctrl&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurjahan2420628-ctrl&theme=tokyo-night&hide_border=true&area=true" />
+<img
+  src="https://streak-stats.demolab.com?user=nurjahan2420628-ctrl&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
