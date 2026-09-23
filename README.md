@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Nur Jahan GitHub Banner"/>
+<img src="./banner.png" width="100%" alt="Nur Jahan GitHub Banner"/>
 
 # 👋 Hi, I'm **Nur Jahan**
 
