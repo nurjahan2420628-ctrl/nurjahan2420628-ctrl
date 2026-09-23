@@ -182,7 +182,7 @@ Real-World Software Projects
 
 ---
 
-# 📊 GitHub Statistics
+<!-- # 📊 GitHub Statistics
 
 <p align="center">
   <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
@@ -191,6 +191,31 @@ Real-World Software Projects
 
 <p align="center">
   <img src="./profile/streak.svg" width="70%" alt="GitHub Streak"/>
+</p> -->
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight"
+    alt="GitHub Statistics"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan2420628-ctrl&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    width="48%"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nurjahan2420628-ctrl&theme=tokyonight"
+    alt="GitHub Streak"
+    width="80%"
+  />
 </p>
 
 ---
