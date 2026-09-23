@@ -1,55 +1,84 @@
-<h1 align="center">Hi there, I'm Nurjahan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>CSE Student · Aspiring Software Engineer · Cybersecurity Enthusiast · Game Dev Explorer</em>
-</p>
+<!-- Banner -->
+<img src="https://capsule-render.com/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=NurJahan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Better.%20Code.%20Brighter%20Tomorrow.&descAlignY=55&descSize=18" width="100%" />
 
+</div>
 
+## 👋 About Me
 
----
+Hi, I'm **NurJahan**! I'm a CSE student and a passionate developer from Bangladesh.
+I enjoy building web applications, exploring new technologies, and turning ideas into
+real projects. I'm always curious, love to learn, and aim to create something meaningful
+through code.
 
-### 🧑‍💻 About Me
+- 💻 Currently working on a tourism website and personal projects
+- 🌱 Exploring Next.js, backend development and system design
+- 🎓 On a journey to become a full-stack developer and contribute to open source
+- 📍 Dhaka, Bangladesh
+- 📫 nurjahan2420628@gmail.com
 
-- 🎓 Computer Science student, currently building a strong foundation in data structures & software development
-- 💻 Interested in **Software Engineering**, **Cybersecurity**, and **Game Development**
-- 🌱 Currently learning: Data Structures, and sharpening my C/C++/Java/JavaScript skills
-- 🛠️ Working on **BuildCore** — a full-stack construction project management web app
-- 📫 Reach me at: nurj1h1n@gmail.com
-- ⚡ Fun fact: always up for solving a good algorithm problem!
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurjahan2420628-ctrl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
-### 🧰 Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Core areas:**
-- Data Structures & Algorithms
-- Web Fundamentals (HTML, CSS, JavaScript)
-- Growing focus on Cybersecurity and Game Development
+</div>
 
 ---
 
+## 🛠️ Skills
 
-
-
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nur-jahan-47762b318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nurj1h1n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,php,mysql,git,docker,figma&theme=dark" />
+</div>
 
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/nurjahan2420628-ctrl/visit-bangladesh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurjahan2420628-ctrl&repo=visit-bangladesh&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nurjahan2420628-ctrl/buildcore-cms">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurjahan2420628-ctrl&repo=buildcore-cms&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nurjahan2420628-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurjahan2420628-ctrl&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan2420628-ctrl&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurjahan2420628-ctrl&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Good things take time, but they're always worth it."* 💜
+
+![Profile Views](https://komarev.com/ghpvc/?username=nurjahan2420628-ctrl&color=blueviolet&style=flat)
+
+</div>
